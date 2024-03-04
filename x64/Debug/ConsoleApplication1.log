@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+E:\инфа\c++\4\ConsoleApplication1\ConsoleApplication1.cpp(17,91): warning C4806: !=: небезопасная операция: значение типа "bool", приведенное к типу "char", не может равняться данной константе
+E:\инфа\c++\4\ConsoleApplication1\ConsoleApplication1.cpp(27,78): warning C4806: !=: небезопасная операция: значение типа "bool", приведенное к типу "char", не может равняться данной константе
+E:\инфа\c++\4\ConsoleApplication1\ConsoleApplication1.cpp(27,86): warning C4806: !=: небезопасная операция: значение типа "bool", приведенное к типу "char", не может равняться данной константе
+E:\инфа\c++\4\ConsoleApplication1\ConsoleApplication1.cpp(29,42): warning C4806: !=: небезопасная операция: значение типа "bool", приведенное к типу "char", не может равняться данной константе
+E:\инфа\c++\4\ConsoleApplication1\ConsoleApplication1.cpp(29,50): warning C4806: !=: небезопасная операция: значение типа "bool", приведенное к типу "char", не может равняться данной константе
+  ConsoleApplication1.vcxproj -> E:\инфа\c++\4\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
